@@ -1,9 +1,7 @@
-<h1 align="center">🍊 Orange Track</h1>
-<p align="center">
-  <strong>免费 · 不限次数 · 批量查询 USPS / UPS / FedEx / GOFO / UniUni 等多家快递</strong><br>
-  <em>A free USPS bulk tracking tool that also supports batch tracking for other carriers, including UPS, FedEx, GOFO, UniUni, and more.</em><br>
-  <em>Temu / TikTok 跨境卖家都在用的物流追踪利器</em>
-</p>
+# Free-USPS-Batch-Tracking-Tool
+
+**A free USPS bulk tracking tool that also supports batch tracking for other carriers, including UPS, FedEx, GOFO, UniUni, and more.**  
+*aka 🍊 Orange Track — 完全免费 · 不限次数 · 批量快递查询工具*
 
 <p align="center">
   <a href="https://orange.gomioo.com" target="_blank"><img src="https://img.shields.io/badge/官网-立即使用-orange?style=for-the-badge&logo=safari" alt="官网"></a>
@@ -48,8 +46,10 @@ Orange Track 都能让你把原来 2 小时的工作压缩到 **5 分钟** 以�
 ## 🖼️ 界面预览
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Orange+Track+Screenshot" alt="界面截图" width="80%"><br>
-  <em>（替换为你的实际截图链接）</em>
+  <img src="https://raw.githubusercontent.com/Pessimisticc/Free-USPS-Batch-Tracking-Tool/master/Batch.png" alt="批量查询界面" width="45%">
+  <img src="https://raw.githubusercontent.com/Pessimisticc/Free-USPS-Batch-Tracking-Tool/master/Excel.png" alt="导出Excel结果" width="45%">
+  <br>
+  <em>批量查询界面 & 一键导出 Excel 结果</em>
 </p>
 
 ---
@@ -94,8 +94,8 @@ Orange Track 都能让你把原来 2 小时的工作压缩到 **5 分钟** 以�
 
 我们欢迎任何形式的贡献：
 
-- 🐛 发现 bug？请提交 [Issue](https://github.com/你的用户名/Free-USPS-Batch-Tracking-Tool/issues)
-- 💡 有好的想法？在 [Discussions](https://github.com/你的用户名/Free-USPS-Batch-Tracking-Tool/discussions) 告诉我们
+- 🐛 发现 bug？请提交 [Issue](https://github.com/Pessimisticc/Free-USPS-Batch-Tracking-Tool/issues)
+- 💡 有好的想法？在 [Discussions](https://github.com/Pessimisticc/Free-USPS-Batch-Tracking-Tool/discussions) 告诉我们
 - 📣 觉得好用？给个 ⭐ Star 并分享给你的卖家群！
 
 ---
@@ -111,7 +111,5 @@ Orange Track 都能让你把原来 2 小时的工作压缩到 **5 分钟** 以�
   <a href="https://orange.gomioo.com">立即使用</a> · 
   <a href="https://github.com/Pessimisticc/Free-USPS-Batch-Tracking-Tool">GitHub 仓库</a>
 </p>
-
----
 
 <!-- SEO 关键词：USPS批量查询,免费运单追踪,批量查USPS,UPS批量查询,FedEx批量查询,GOFO追踪,UniUni查询,Temu卖家工具,TikTok跨境物流,运单号查询,免费快递查询,跨境物流查询 -->
